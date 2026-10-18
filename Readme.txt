@@ -10,6 +10,8 @@ This project is composed of 3 subsystems:
 2. **MADCST-Sat** (1U CubeSat ADCS model)
 3. **RM3100** (payload of the MADCST-Sat)
 
+This project also has a dashboard used for the visualization and register of the satellite attitude in real time.
+
 ## Team
 
 - Emmanuel Isaac García Sanabria ([@TheSpaceRancher](https://github.com/TheSpaceRancher))
